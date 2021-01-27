@@ -17,6 +17,16 @@
   name = "Projects"
   url = "#projects"
   weight = 20
+  
+#[[main]]
+  #  name = "Research"  # A name for the link.
+  # url = "/#research"  # URL of the section.
+  #  weight = 30  # Position of the link in the menu.  
+
+#[[main]]
+  #  name = "Others"  # A name for the link.
+  # url = "/#others"  # URL of the section.
+  #  weight = 40  # Position of the link in the menu.  
 
 #[[main]]
  # name = "Talks"
