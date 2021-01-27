@@ -43,9 +43,6 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/raisasherif
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: 
 - icon: github
   icon_pack: fab
   link: https://github.com/raisasherif
