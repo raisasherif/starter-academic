@@ -23,10 +23,10 @@
   url = "/#research"  # URL of the section.
   weight = 30  # Position of the link in the menu.  
 
-#[[main]]
-  #  name = "Others"  # A name for the link.
-  # url = "/#others"  # URL of the section.
-  #  weight = 40  # Position of the link in the menu.  
+[[main]]
+   name = "Others"  # A name for the link.
+   url = "/#others"  # URL of the section.
+   weight = 50  # Position of the link in the menu.  
 
 #[[main]]
  # name = "Talks"
@@ -48,4 +48,4 @@
 [[main]]
     name = "CV"
     url = "media/Raisa_Sherif_CV.pdf"
-    weight = 50
+    weight = 70
