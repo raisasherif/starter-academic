@@ -16,7 +16,7 @@
 [[main]]
   name = "Projects"
   url = "#projects"
-  weight = 30
+  weight = 20
 
 #[[main]]
  # name = "Talks"
@@ -38,4 +38,4 @@
 [[main]]
     name = "CV"
     url = "media/Raisa_Sherif_CV.pdf"
-    weight = 70
+    weight = 50
