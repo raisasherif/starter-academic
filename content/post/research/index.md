@@ -1,5 +1,5 @@
 ---
-title: 'Research'
+title: ''
 subtitle: ''
 summary: 
 authors:
