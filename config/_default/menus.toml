@@ -25,7 +25,7 @@
 
 [[main]]
    name = "Others"  # A name for the link.
-   url = "/#others"  # URL of the section.
+   url = "/#zothers"  # URL of the section.
    weight = 50  # Position of the link in the menu.  
 
 #[[main]]
