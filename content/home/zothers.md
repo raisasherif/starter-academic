@@ -1,6 +1,6 @@
 ## Podcast
 
-I co-host the [Max Planck Economics Podcast](link) with Lisa Windsteiger and Jonas Send. Please find some of the episodes here:
+I co-host the [Max Planck Economics Podcast](http://www.tax.mpg.de/en/news/podcasts.html) with Lisa Windsteiger and Jonas Send. Please find some of the episodes here:
 
 1.	[Social Media and the Survival of Autocracies]( http://www.tax.mpg.de/en/news/news_details.html?tx_ttnews%5Btt_news%5D=619&cHash=08a3269d56865832ce904b296922ded4) with Galina Zudenkova
 
