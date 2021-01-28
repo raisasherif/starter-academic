@@ -61,6 +61,6 @@ email: ""
 highlight_name: false
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am a Post-doc at the department of Public Economics at the [Max Planck Institute for Tax Law and Public Economics](https://www.tax.mpg.de/en/home.html/). My research tries to bring insights from experimental and behavioural economics to study individual decisions in collective action problems like environmental behaviours or voting.
 
 
