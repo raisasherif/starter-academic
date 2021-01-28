@@ -6,5 +6,5 @@ Abstract: This paper uses a ﬁeld experiment among adolescents in India to stud
 *Paper available upon request*
 
 ## Published Papers
-### 1. [Sanctioning, selection, and pivotality in voting: theory and experimental results] ( https://link.springer.com/article/10.1007/s10602-019-09284-4)
+### 1. [Sanctioning, selection, and pivotality in voting: theory and experimental results](https://link.springer.com/article/10.1007/s10602-019-09284-4)
 ###(with Kai Konrad)
