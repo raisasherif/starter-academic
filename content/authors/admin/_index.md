@@ -16,7 +16,7 @@ organizations:
 bio: 
 
 # Interests to show in About widget
-interests:
+Research interests:
 - Behavioural economics
 - Experimental methods 
 - Environmental decisions
@@ -27,7 +27,7 @@ education:
   - course: PhD in Economics
     institution: Munich Graduate School of Economics
     year: 2021
-  - course: Masters in Economics
+  - course: Masters in Economics (5 years)
     institution: Indian Institute of Technology, Madras
     year: 2014
 
