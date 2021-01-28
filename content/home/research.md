@@ -7,4 +7,5 @@
 *Paper available upon request*
 
 ## Published Papers
-### [Sanctioning, selection, and pivotality in voting: theory and experimental results](https://link.springer.com/article/10.1007/s10602-019-09284-4) (with Kai Konrad)
+### [Sanctioning, selection, and pivotality in voting: theory and experimental results](https://link.springer.com/article/10.1007/s10602-019-09284-4) 
+(with Kai Konrad)
