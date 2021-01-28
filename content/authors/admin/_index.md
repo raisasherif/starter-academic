@@ -16,7 +16,7 @@ organizations:
 bio: 
 
 # Interests to show in About widget
-Research interests:
+interests:
 - Behavioural economics
 - Experimental methods 
 - Environmental decisions
