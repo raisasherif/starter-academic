@@ -14,3 +14,7 @@ I co-host the [Max Planck Economics Podcast](link) with Lisa Windsteiger and Jon
 # Media
 
 My friend Arun Sudarsan and I wrote a three part series for the newspaper Malayala Manorama. If you read Malayalam you can find them [here](https://www.manoramaonline.com/global-malayali/us/2020/10/28/fake-news-and-its-effects-in-election.html), [here](https://www.manoramaonline.com/global-malayali/us/2020/10/18/protest-and-us-election.html), and [here](https://www.manoramaonline.com/global-malayali/us/2020/10/13/us-election-october-surprise.html).
+
+# Equality of opportunities
+
+As the elected equal opportunities officer for the MPI for Tax Law and Public Finance, I spend some of my time advocating for and handling issues of inclusivity in science and academia. You can find out more about the initiatives of the Max Planck Society [here](https://www.mpg.de/equal_opportunities). If you would like to get in touch, please write to raisa.sherif@tax.mpg.de. 
