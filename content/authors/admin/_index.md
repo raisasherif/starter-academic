@@ -18,16 +18,16 @@ bio:
 # Interests to show in About widget
 interests:
 - Behavioural economics
-- Experimental methods 
 - Environmental decisions
+- Experimental methods 
 
 # Education to show in About widget
 education:
   courses:
   - course: PhD in Economics
-    institution: Munich Graduate School of Economics
+    institution: Ludwig Maximilians University Munich, Munich Graduate School of Economics
     year: 2021
-  - course: Masters in Economics (5 years)
+  - course: Integrated Masters in Economics
     institution: Indian Institute of Technology, Madras
     year: 2014
 
@@ -61,6 +61,6 @@ email: ""
 highlight_name: false
 ---
 
-I am a Post-doc at the department of Public Economics at the [Max Planck Institute for Tax Law and Public Economics](https://www.tax.mpg.de/en/home.html/). My research tries to bring insights from experimental and behavioural economics to study individual decisions in collective action problems like environmental behaviours or voting.
+I am a Post-doc at the department of Public Economics at the [Max Planck Institute for Tax Law and Public Economics](https://www.tax.mpg.de/en/home.html/). My research tries to bring insights from experimental and behavioural economics to study individual decisions in collective action problems like environmental behaviours or voting. 
 
 
