@@ -4,13 +4,17 @@
 
 #### Wins and losses in collective actions.
 
-#### [Pre-Analysis Plan](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3799970) 
+##### [Pre-Analysis Plan]() 
+##### [AEA Registry]() 
 
 #### Environmental nudges, norms, and behaviour: Evidence from the field.
 
-#### [Pre-Analysis Plan](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3799970) 
+##### [Pre-Analysis Plan]()
+##### [AEA Registry]() 
 
 #### Incentivized vs Non-incentivized elicitation of norms.
+##### [Pre-Analysis Plan]()
+##### [AEA Registry]() 
 
 ## Working paper
 
