@@ -2,11 +2,11 @@
 
 ## Work in progress
 
-### Wins and losses in collective actions.
+#### Wins and losses in collective actions.
 
 [AEA Registry](https://www.socialscienceregistry.org/trials/7474) 
 
-### Environmental nudges, norms, and behaviour: Evidence from the field.
+#### Environmental nudges, norms, and behaviour: Evidence from the field.
 
 [AEA Registry]() 
 
@@ -16,7 +16,7 @@
 
 ## Working paper
 
-### Are pro-environment behaviours substitutes or complements? Evidence from the field.
+#### Are pro-environment behaviours substitutes or complements? Evidence from the field.
 
 [Working paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3799970) (Submitted)
 
@@ -24,6 +24,6 @@
 
 ## Published Papers
 
-### [Sanctioning, selection, and pivotality in voting: theory and experimental results](https://link.springer.com/article/10.1007/s10602-019-09284-4) 
+#### [Sanctioning, selection, and pivotality in voting: theory and experimental results](https://link.springer.com/article/10.1007/s10602-019-09284-4) 
 
 (with Kai Konrad)
