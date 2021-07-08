@@ -6,9 +6,9 @@
 
 [AEA Registry](https://www.socialscienceregistry.org/trials/7474) 
 
-#### Environmental nudges, norms, and behaviour: Evidence from the field.
+#### Information campaigns, environment norms, and behaviour: Evidence from the field.
 
-[AEA Registry]() 
+[AEA Registry](https://www.socialscienceregistry.org/trials/7439) 
 
 #### Incentivized vs Non-incentivized elicitation of norms.
   
