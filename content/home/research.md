@@ -2,7 +2,7 @@
 
 ## Work in progress
 
-#### Wins and losses in collective actions.
+#### Wins and losses in collective actions. 1
 
 [AEA Registry](https://www.socialscienceregistry.org/trials/7474) 
 
