@@ -4,7 +4,9 @@
 
 #### Wins and losses in collective actions. 
 
-{{%expand "Is this learn theme rocks ?" %}}Yes !.{{% /expand%}}
+{{< expand "Is this learn theme rocks ?" >}}
+Yes !.
+{{< /expand >}}
 
 [AEA Registry](https://www.socialscienceregistry.org/trials/7474) 
 
