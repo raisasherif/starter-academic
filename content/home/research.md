@@ -44,5 +44,6 @@ This paper uses a ﬁeld experiment among adolescents in India to study how an i
 
 #### Sanctioning, selection, and pivotality in voting: theory and experimental results
 (with Kai Konrad)
+
 [Ungated version](https://link.springer.com/article/10.1007/s10602-019-09284-4)
 
