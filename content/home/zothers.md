@@ -13,7 +13,7 @@ I co-host the [Max Planck Economics Podcast](http://www.tax.mpg.de/en/news/podca
 
 # Media
 
-My friend Arun Sudarsan and I wrote a three part series for the newspaper Malayala Manorama. If you read Malayalam you can find them [here](https://www.manoramaonline.com/global-malayali/us/2020/10/28/fake-news-and-its-effects-in-election.html), [here](https://www.manoramaonline.com/global-malayali/us/2020/10/18/protest-and-us-election.html), and [here](https://www.manoramaonline.com/global-malayali/us/2020/10/13/us-election-october-surprise.html).
+My friend [Arun Sudarsan](https://arunsudarsan.in/) and I wrote a three part series for the newspaper Malayala Manorama. If you read Malayalam you can find them [here](https://www.manoramaonline.com/global-malayali/us/2020/10/28/fake-news-and-its-effects-in-election.html), [here](https://www.manoramaonline.com/global-malayali/us/2020/10/18/protest-and-us-election.html), and [here](https://www.manoramaonline.com/global-malayali/us/2020/10/13/us-election-october-surprise.html).
 
 # Equality of opportunities
 
