@@ -4,9 +4,17 @@
 
 #### Wins and losses in collective actions. 
 
-{{< expand "Is this learn theme rocks ?" >}}
-Yes !.
-{{< /expand >}}
+# A collapsible section with markdown
+<details>
+  <summary>Click to expand!</summary>
+  
+  ## Heading
+  1. A numbered
+  2. list
+     * With some
+     * Sub bullets
+</details>
+
 
 [AEA Registry](https://www.socialscienceregistry.org/trials/7474) 
 
