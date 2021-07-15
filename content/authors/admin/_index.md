@@ -61,6 +61,8 @@ email: ""
 highlight_name: false
 ---
 
-I am a Post-doc at the department of Public Economics at the [Max Planck Institute for Tax Law and Public Economics](https://www.tax.mpg.de/en/home.html/). My research tries to bring insights from experimental and behavioural economics to study individual decisions in collective action problems like environmental behaviours or voting. 
+I am a Post-doc at the department of Public Economics at the [Max Planck Institute for Tax Law and Public Economics](https://www.tax.mpg.de/en/home.html/) in Munich.
+
+My research tries to bring insights from experimental and behavioural economics to study individual decisions in collective action problems like environmental behaviours or voting. 
 
 
