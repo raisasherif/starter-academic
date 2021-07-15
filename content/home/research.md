@@ -21,7 +21,8 @@ Information campaigns that aim to encourage pro-environment activities are a wid
 </details>
 
 
-#### Incentivized vs Non-incentivized elicitation of norms. [AEA Registry]() 
+#### Incentivized vs Non-incentivized elicitation of norms. 
+[AEA Registry]() 
 
 ## Working paper
 
