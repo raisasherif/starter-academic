@@ -24,6 +24,8 @@ Information campaigns that aim to encourage pro-environment activities are a wid
 #### Incentivized vs Non-incentivized elicitation of norms. 
 [AEA Registry]() 
 
+#### Behavioural effects of contested monuments and their removal, with Biljana Meiske
+
 ## Working paper
 
 #### Are pro-environment behaviours substitutes or complements? Evidence from the field.
