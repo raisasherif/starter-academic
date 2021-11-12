@@ -11,7 +11,7 @@
 Global warming, deforestation, destruction of wildlife, etc., all represent problems which require coordination on a global level to be successfully resolved. At the same time, they also have their representation on a smaller scale (e.g. on a local level). We study, using a field experiment, whether the experience of participation in a small-scale collective action affects the willingness to contribute in a related but larger collective action. Particularly, we are interested in the motivational and demotivational effects of having achieved a "small win" or having failed to do so, on scaling-up the collective effort, and the relative magnitude of these effects. Furthermore, we investigate whether success (failure) in the smaller scale collective action has heterogeneous effects on participants with different initial propensity to contribute.
 </details>
 
-#### Information campaigns, environment norms, and behaviour: Evidence from the field. 
+#### [2] Information campaigns, environment norms, and behaviour: Evidence from the field. 
 [AEA Registry](https://www.socialscienceregistry.org/trials/7439) 
 
 <details>
@@ -21,15 +21,15 @@ Information campaigns that aim to encourage pro-environment activities are a wid
 </details>
 
 
-#### Incentivized vs Non-incentivized elicitation of norms. 
+#### [3] Incentivized vs Non-incentivized elicitation of norms. 
 [AEA Registry]() 
 
-#### Behavioural effects of contested monuments and their removal
+#### [4] Behavioural effects of contested monuments and their removal
 (with Biljana Meiske)
 
 ## Working paper
 
-#### Are pro-environment behaviours substitutes or complements? Evidence from the field.
+#### [1] Are pro-environment behaviours substitutes or complements? Evidence from the field.
 
 [Working paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3799970) (Submitted)
 
@@ -41,7 +41,7 @@ This paper uses a ﬁeld experiment among adolescents in India to study how an i
 
 ## Publications
 
-#### Sanctioning, selection, and pivotality in voting: theory and experimental results
+#### [1] Sanctioning, selection, and pivotality in voting: theory and experimental results
 (with Kai Konrad)
 
 [Ungated version](https://link.springer.com/article/10.1007/s10602-019-09284-4)
