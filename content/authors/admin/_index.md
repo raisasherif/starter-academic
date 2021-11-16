@@ -64,7 +64,7 @@ email: ""
 highlight_name: false
 ---
 
-I am a Post-doc at the department of Public Economics at the [Max Planck Institute for Tax Law and Public Economics](https://www.tax.mpg.de/en/home.html/) in Munich. I completed my PhD in 2021 from the University of Munich and the Munich Graduate School of Economics. I received my undergraduate degree from the Indian Institute of Technology - Madras, India.
+I am a Post-doc at the department of Public Economics at the [Max Planck Institute for Tax Law and Public Finance](https://www.tax.mpg.de/en/home.html/) in Munich. I completed my PhD in 2021 from the University of Munich and the Munich Graduate School of Economics. I received my undergraduate degree from the Indian Institute of Technology - Madras, India.
 
 I use insights from behavioural economics and experimental methods to study environmental decision making.
 
