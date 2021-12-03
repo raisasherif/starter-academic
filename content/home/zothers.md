@@ -1,6 +1,8 @@
 # Mentoring Hub
 
-Please check out the [Lindau Mentoring Hub](https://lindau.mentoringhub.org/), a  digital  platform  that  connects  mentors  and  mentees  in  science  and academia. Currently, the platform is in development in collaboration with the [Lindau Nobel Laureate Meetings](https://www.lindau-nobel.org/) and the [Dieter Schwarz Foundation](https://www.dieter-schwarz-stiftung.de/homepage.html). 
+Please check out the [Lindau Mentoring Hub](https://lindau.mentoringhub.org/), a  digital  platform  that  connects  mentors  and  mentees  in  science  and academia, from across the world. You can sign up [here](https://lindau.mentoringhub.org/app/#/registration).
+
+The platform is developed in collaboration with the [Lindau Nobel Laureate Meetings](https://www.lindau-nobel.org/) and the [Dieter Schwarz Foundation](https://www.dieter-schwarz-stiftung.de/homepage.html). 
 
 # Podcast
 
