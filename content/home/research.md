@@ -15,7 +15,7 @@ This paper uses a ﬁeld experiment among adolescents in India to study how an i
 ## Work in progress
 
 #### [1] Wins and losses in collective actions. 
-(with [Biljana Meiske]()http://biljanameiske.com/) [AEA Registry](https://www.socialscienceregistry.org/trials/7474) 
+(with [Biljana Meiske](http://biljanameiske.com/)) [AEA Registry](https://www.socialscienceregistry.org/trials/7474) 
 
 <details>
   <summary>Abstract:</summary>
