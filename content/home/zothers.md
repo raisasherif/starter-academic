@@ -1,4 +1,4 @@
-# Mentoring Hub
+# Mentoring 
 
 Please check out the [Lindau Mentoring Hub](https://lindau.mentoringhub.org/), a  digital  platform  that  connects  mentors  and  mentees  in  science  and academia, from across the world. You can sign up [here](https://lindau.mentoringhub.org/app/#/registration).
 
