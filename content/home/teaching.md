@@ -1,7 +1,6 @@
 ### International Public Economics
 
-Masters and PhD level 
-
+Masters and PhD level
 University of Munich, Germany
 
 Syllabus
