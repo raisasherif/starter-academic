@@ -27,6 +27,14 @@ Information campaigns that aim to encourage pro-environment activities are a wid
 </details>
 
 
+#### Shame or Spirituality? What Works in Improving Waste Management in Urban India. 
+(with Ahana, Vishal, Nishith)
+
+#### Is there a Trade-off between Efficiency and Visibility in Pro-environmental Behaviours?
+(with [Sven Simon](https://www.tax.mpg.de/en/public_economics/public_economics_people/sven_arne_simon.html))
+
+
+
 #### Incentivized vs Non-incentivized elicitation of norms. 
 [AEA RCT Registry]() 
 
