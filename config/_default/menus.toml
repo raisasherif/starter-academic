@@ -29,7 +29,7 @@
    weight = 50  # Position of the link in the menu.  
 
 [[main]]
-  name = "Talks"
+  name = "Teaching"
   url = "/#teaching"
   weight = 40
 
