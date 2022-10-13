@@ -66,9 +66,6 @@ highlight_name: false
 
 I am a Post-doc at the department of Public Economics at the [Max Planck Institute for Tax Law and Public Finance](https://www.tax.mpg.de/en/home.html/) in Munich. I completed my PhD in 2021 from the University of Munich and the Munich Graduate School of Economics. I received my undergraduate degree from the Indian Institute of Technology - Madras, India.
 
-# I am on the 2022-23 job market and will be available for interviews at the ASSA
-# Link to my job market paper
-
 I use insights from behavioural economics and experimental methods to study environmental decision making.
 
 My current research involves running field experiments focusing on environmental decision making. This includes projects studying whether different environmental behaviours are substitutes or complements and how an intervention to increase one pro-environment activity spills over to other pro-environment activities, how achieving the goal or failing to do so in small scale environmental collective actions affect participation in larger scale collective actions, and whether individuals respond to information campaigns in the environmental domain because of their informational value or because they expect the campaign to change the social norm around these behaviours, and want to adhere to these new norms. 
