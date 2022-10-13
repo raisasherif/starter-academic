@@ -24,7 +24,7 @@
   weight = 30  # Position of the link in the menu.  
 
 [[main]]
-   name = "Projects"  # A name for the link.
+   name = "Mentoring"  # A name for the link.
    url = "/#zothers"  # URL of the section.
    weight = 50  # Position of the link in the menu.  
 
@@ -32,6 +32,11 @@
   name = "Teaching"
   url = "/#teaching"
   weight = 40
+  
+[[main]]
+   name = "Media"  # A name for the link.
+   url = "/#zothers"  # URL of the section.
+   weight = 60  # Position of the link in the menu.    
 
 #[[main]]
 #  name = "Publications"
