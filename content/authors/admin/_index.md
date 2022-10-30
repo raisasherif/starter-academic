@@ -70,6 +70,8 @@ I am on the academic job market in 2022-23 and will be available for interviews.
 
 <I use insights from behavioural economics and experimental methods to study environmental decision making.>
 
-My current research involves running field experiments focusing on environmental decision making. This includes projects studying whether different environmental behaviours are substitutes or complements and how an intervention to increase one pro-environment activity spills over to other pro-environment activities, how achieving the goal or failing to do so in small scale environmental collective actions affect participation in larger scale collective actions, and whether individuals respond to information campaigns in the environmental domain because of their informational value or because they expect the campaign to change the social norm around these behaviours, and want to adhere to these new norms. 
+
+  
+ My current research involves running field experiments focusing on environmental decision making. This includes projects studying whether different environmental behaviours are substitutes or complements and how an intervention to increase one pro-environment activity spills over to other pro-environment activities, how achieving the goal or failing to do so in small scale environmental collective actions affect participation in larger scale collective actions, and whether individuals respond to information campaigns in the environmental domain because of their informational value or because they expect the campaign to change the social norm around these behaviours, and want to adhere to these new norms. 
 
 
