@@ -17,9 +17,9 @@ bio:
 
 # Interests to show in About widget
 interests:
+- Environmental economics
 - Behavioural economics
-- Environmental decisions
-- Experimental methods 
+- Development 
 
 # Education to show in About widget
 education:
