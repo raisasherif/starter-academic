@@ -1,4 +1,4 @@
-# Job Market Paper
+### Job Market Paper
 
 #### Are pro-environment behaviours substitutes or complements? Evidence from the field.
 
@@ -27,10 +27,12 @@ Information campaigns that aim to encourage pro-environment activities are a wid
 
 #### Shame or Spirituality? What Works in Improving Waste Management in Urban India. 
 (with Ahana Basistha, [Vishal Narayan](https://www.business.uconn.edu/person/vishal-narayan/), [Nishith Prakash](https://nishithprakash.com/))
+
 Poor urban waste management has severe negative effects on health and economic outcomes. We conduct a randomized control trial among households in the Patna Municipal Corporation in Bihar, India to examine the effects of behavioural interventions on urban waste segregation. We test the impact of combining religious messaging with shame-based intervention on household segregation levels. By targeting the messages to different members of the household, we additionally explore the differences in intervention effectiveness that can potentially arise from tailoring the program to the most relevant decision maker.
 
 #### Is there a Trade-off between Efficiency and Visibility in Pro-environmental Behaviours?
 (with [Sven Simon](https://www.tax.mpg.de/en/public_economics/public_economics_people/sven_arne_simon.html))
+
 Individuals frequently engage in pro-environment behaviours that are not necessarily the most efficient in terms of environmental impact per unit of cost incurred. One potential reason for engaging in PEBs of lower efficiency is a preference for visibility. Individuals with a preference for being perceived as green could choose a PEB providing higher visibility over a more efficient but less visible one. We conduct a large-scale online experiment in Germany to examine whether individuals deliberately trade-off between visibility and efficiency in pro-environmental behaviours.
 
 
