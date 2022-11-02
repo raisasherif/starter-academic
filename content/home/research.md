@@ -1,4 +1,3 @@
-## Research
 
 ### Work in progress
 
