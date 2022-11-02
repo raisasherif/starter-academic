@@ -68,7 +68,7 @@ I am a Post-doc at the department of Public Economics at the [Max Planck Institu
 
 **I am on the academic job market in 2022 - 23 and will be available for interviews at the EEA 2022 and the ASSA 2023 meetings.** 
 
-You can download my [CV]({{< ref "/CV" >}} ) and [JMP]({{< ref "/jmp" >}} ).
+
 
 
 
