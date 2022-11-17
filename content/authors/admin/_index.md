@@ -68,7 +68,7 @@ I am a Post-doc at the department of Public Economics at the [Max Planck Institu
 
 The goal of my research is to better understand pro-environmental behaviours and policy interventions targeted at encouraging individuals to engage in them.
 
-**I am on the academic job market in 2022 - 23 and will be available for interviews at the EEA 2022 and the ASSA 2023 meetings.** 
+**I am on the academic job market in 2022 - 23 and will be available for interviews at the ASSA 2023 meetings.** 
 
 
 
