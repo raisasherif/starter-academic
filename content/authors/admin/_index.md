@@ -66,7 +66,7 @@ highlight_name: false
 
 I am a Post-doc at the department of Public Economics at the [Max Planck Institute for Tax Law and Public Finance](https://www.tax.mpg.de/en/home.html/) in Munich. I completed my PhD in 2021 from the University of Munich and the Munich Graduate School of Economics. I received my undergraduate degree from the Indian Institute of Technology - Madras, India. 
 
-The goal of my research is to better understand pro-environmental behaviours and policy interventions targeted at encouraging individuals to engage in them.
+The goal of my research is to better understand pro-environmental behaviours and policy interventions targeted at encouraging individuals to engage in them. Please find my research statement [here]().
 
 **I am on the academic job market in 2022 - 23 and will be available for interviews at the ASSA 2023 meetings.** 
 
