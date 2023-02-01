@@ -68,7 +68,7 @@ I am a Post-doc at the department of Public Economics at the [Max Planck Institu
 
 The goal of my research is to better understand pro-environmental behaviours and policy interventions targeted at encouraging individuals to engage in them. I study these topics by employing insights from behavioural economics and combining experimental methods like ﬁeld, lab-in-the-ﬁeld, and online survey experiments. Please find my research statement [here](/media/Raisa_Sherif_Research_Statement.pdf).
 
-**I am on the academic job market in 2022 - 23 and will be available for interviews at the ASSA 2023 meetings.** 
+
 
 
 
