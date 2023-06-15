@@ -38,12 +38,6 @@ Poor urban waste management has severe negative effects on health and economic o
 Individuals frequently engage in pro-environment behaviours that are not necessarily the most efficient in terms of environmental impact per unit of cost incurred. One potential reason for engaging in PEBs of lower efficiency is a preference for visibility. Individuals with a preference for being perceived as green could choose a PEB providing higher visibility over a more efficient but less visible one. We conduct a large-scale online experiment in Germany to examine whether individuals deliberately trade-off between visibility and efficiency in pro-environmental behaviours.
 
 
-#### Incentivized vs Non-incentivized elicitation of norms. 
-[AEA RCT Registry]() 
-
-#### Behavioural effects of contested monuments and their removal
-(with [Biljana Meiske](http://biljanameiske.com/))
-
 ## Publications
 
 #### Sanctioning, selection, and pivotality in voting: theory and experimental results
