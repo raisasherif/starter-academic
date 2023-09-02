@@ -2,8 +2,8 @@
 
 ### Behavioural Environmental Economics
 
-Bachelor Seminar, Winter Semester 2023
- University of Munich, Germany
+Bachelor Seminar, Winter Semester 2023 
+University of Munich, Germany
 
 ### International Public Economics 
 
