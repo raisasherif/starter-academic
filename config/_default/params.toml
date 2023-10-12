@@ -9,12 +9,18 @@
 ## Theme
 ############################
 
+[appearance]
+theme_day = "minimal"
+theme_night = "minimal"
+font = "minimal"
+font_size = "XS"
+
 # Choose a theme.
 #   Guide to color themes: https://wowchemy.com/docs/customization/#color-themes
 #   Browse the latest built-in font sets at https://github.com/wowchemy/wowchemy-hugo-modules/tree/master/wowchemy/themes/
 #   Browse user installed themes in `data/themes/`
-theme_day = "minimal"
-theme_night = "minimal"
+# theme_day = "minimal"
+# theme_night = "minimal"
 
 # Enable users to switch between day and night mode?
 # day_night = true
@@ -23,11 +29,11 @@ theme_night = "minimal"
 #   Guide to font sets: https://wowchemy.com/docs/customization/#fonts
 #   Browse the latest built-in font sets at https://github.com/wowchemy/wowchemy-hugo-modules/tree/master/wowchemy/data/fonts
 #   Browse user installed font sets in `data/fonts/`
-font = "minimal"
+# font = "minimal"
 
 # Choose a font size.
 # Sizes: XS (extra small), S (small), M (medium), L (large - DEFAULT), XL (extra large)
-font_size = "XS"
+# font_size = "XS"
 
 ############################
 ## Basic Info
