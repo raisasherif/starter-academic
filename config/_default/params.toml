@@ -13,7 +13,7 @@
 theme_day = "minimal"
 theme_night = "minimal"
 font = "minimal"
-font_size = "XS"
+font_size = "L"
 
 # Choose a theme.
 #   Guide to color themes: https://wowchemy.com/docs/customization/#color-themes
