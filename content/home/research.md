@@ -1,6 +1,12 @@
 
 ### Working Papers
 
+#### [Is there a Trade-off between Efficiency and Visibility in Pro-environmental Behaviours?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4672097)
+(with [Sven Simon](https://www.tax.mpg.de/en/public_economics/public_economics_people/sven_arne_simon.html))
+
+Today’s environmental challenges prompt many individuals to take personal actions to address them. Those intrinsically concerned about the environment should focus on maximizing the impact of their actions. Yet, it is observed that individuals often engage in pro-environment behaviors (PEBs) that are relatively inefficient in terms of their cost-benefit ratio. We examine if this is because individuals trade off efficient PEBs for inefficient, but visible ones. We conduct a representative online experiment in Germany to investigate this trade-off between efficient and visible PEBs, using contributions to carbon-offset initiatives. Our findings reveal three key insights: First, when considered independently, individuals display a preference for efficient PEBs. Second, in scenarios where efficiency and visibility dimensions are in conflict, visible PEBs crowd out efficient alternatives, indicating a willingness among respondents to prioritize being seen as green over environmental impact. Finally, we disentangle two motivations driving this preference for visible actions: social image concerns (a self-oriented motive) and role model aspirations. Notably, the latter motivation exerts a stronger influence, leading individuals more frequently to choose visible PEBs over efficient ones.
+
+
 #### Are pro-environment behaviours substitutes or complements? Evidence from the field.
 
 <!---
@@ -15,6 +21,13 @@ This paper uses a ﬁeld experiment among adolescents in India to study how an i
 
 ### Work in progress
 
+#### Sustainability Starts at Home: The Role of Children in Shaping Environmental Practices
+(with Shubhro Bhattacharya, Sara Constantino, Nirajana Mishra, Nishith Prakash, Dighbijoy Samaddar)
+
+This study examines the effect of educational interventions on improving pro-environmental attitudes and behaviours within family units in Patna, Bihar. We implement a Randomized Controlled Trial across 4,000 households to analyze the ``spillover'' effects between children and their parents. We employ four treatment arms: Student-Only, Parent-Only, Combined Student and Parent, and a Control Group, to evaluate the impact of a custom-designed pro-environmental curriculum on both direct recipients and their household counterparts.
+
+Grant: The World Bank, 85,000 USD
+
 #### Wins and losses in collective actions. 
 (with [Biljana Meiske](http://biljanameiske.com/)) [AEA RCT Registry](https://www.socialscienceregistry.org/trials/7474) 
 
@@ -26,16 +39,15 @@ Global warming, deforestation, destruction of wildlife, etc., all represent prob
 Information campaigns that aim to encourage pro-environment activities are a widely popular policy instrument. In addition to closing the information gap related to target behaviours, such interventions can potentially change the beliefs that individuals hold about the appropriateness of these behaviours. This is particularly likely in the context of environment behaviours because of the normative nature of interventions, where a ‘correct’ behaviour is often encouraged. We look at whether individuals respond to information campaigns in the environmental domain because of their informational value or because they expect the campaign to change the social norm around these behaviours, and want to adhere to these new norms. We aim to separately identify these two channels through a ﬁeld experiment.
 </details>
 
+#### Shaping Minds: The Transformative Effects of Theatre-Based Learning, with Ritam Chaurey, Sara Constantino, Shantanu Khanna, Abhiroop Mukhopadhyay, Nishith Prakash
 
-#### Shame or Spirituality? What Works in Improving Waste Management in Urban India. 
-(with Ahana Basistha, [Vishal Narayan](https://www.business.uconn.edu/person/vishal-narayan/), [Nishith Prakash](https://nishithprakash.com/))
+Despite progress in addressing barriers to human capital in the last two decades, significant learning gaps persist. A new line of research suggests that holistic skills have been associated with positive impacts on later life outcomes. However, there is little evidence supporting the effectiveness of existing traditional classroom-based instructional strategies in improving non-cognitive and socio-emotional skills. In this study, we conduct a randomized control trial in100schools in Uttarakhand, India to estimate the causal impacts of an experiential learning pedagogy in secondary schools. The curriculum consists of a total of 36hours of arts and theater-based instruction spread over 24 weekly sessions. We will measure the impacts on cognitive skills (critical thinking and learning), social skills (class participation, network formation, communication skills, pro-sociality), and emotional skills (stress, anxiety, self-care, self-esteem).
 
-Poor urban waste management has severe negative effects on health and economic outcomes. We conduct a randomized control trial among households in the Patna Municipal Corporation in Bihar, India to examine the effects of behavioural interventions on urban waste segregation. We test the impact of combining religious messaging with shame-based intervention on household segregation levels. By targeting the messages to different members of the household, we additionally explore the differences in intervention effectiveness that can potentially arise from tailoring the program to the most relevant decision maker.
+#### Sorting it out: Waste Management in Urban India
+(with Ahana Basistha,, [Nishith Prakash](https://nishithprakash.com/))
 
-#### Is there a Trade-off between Efficiency and Visibility in Pro-environmental Behaviours?
-(with [Sven Simon](https://www.tax.mpg.de/en/public_economics/public_economics_people/sven_arne_simon.html))
+Poor urban waste management has severe negative effects on health and economic outcomes. We conduct a randomized control trial among households in the Patna Municipal Corporation in Bihar, India to measure the effect of messaging interventions on waste segregation behaviour. Our findings indicate that interventions increased the experimentally elicited willingness to pay for waste segregation by 6-8 percentage points. However, they did not significantly alter the day-to-day waste segregation habits of the respondents.
 
-Individuals frequently engage in pro-environment behaviours that are not necessarily the most efficient in terms of environmental impact per unit of cost incurred. One potential reason for engaging in PEBs of lower efficiency is a preference for visibility. Individuals with a preference for being perceived as green could choose a PEB providing higher visibility over a more efficient but less visible one. We conduct a large-scale online experiment in Germany to examine whether individuals deliberately trade-off between visibility and efficiency in pro-environmental behaviours.
 
 
 ## Publications
